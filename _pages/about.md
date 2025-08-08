@@ -32,9 +32,8 @@ My research focuses on vision-language models and multimodal reasoning.
 
 [VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning](https://arxiv.org/abs/2508.04043)
 
-Yuheng Ji*, **Yipu Wang***, Yuyang Liu, Xiaoshuai Hao, Yue Liu, Yuting Zhao, Huaihai Lyu, Xiaolong Zheng (*Equal contribution)
+Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue Liu, Yuting Zhao, Huaihai Lyu, Xiaolong Zheng (<sup>*</sup>Equal contribution)
 
-[**arXiv**](https://arxiv.org/abs/2508.04043)
 - VisualTrans is the first real-world benchmark for Visual Transformation Reasoning (VTR), evaluating spatial, procedural and quantitative reasoning across 12 human-object interaction tasks. While current models perform well on static tasks, they show significant limitations in dynamic, multi-step reasoning, revealing critical gaps in temporal and causal understanding for intelligent systems.
 </div>
 </div>
@@ -46,7 +45,6 @@ Yuheng Ji*, **Yipu Wang***, Yuyang Liu, Xiaoshuai Hao, Yue Liu, Yuting Zhao, Hua
 
 **Yipu Wang**, Huan Wang
 
-[**Journal**](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23000944)
 - We propose WAPHF, a wavelet attention-powered hierarchical dynamic frequency learning framework for lithium battery SOH prediction. By integrating CNN with wavelet transform and dynamic frequency-focused attention, our method effectively addresses frequency aliasing issues and outperforms state-of-the-art approaches across three datasets.
 </div>
 </div>
