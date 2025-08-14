@@ -38,6 +38,17 @@ Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 Workshop AIA (Oral)</div><img src='images/OpenCUA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenCUA: Open Foundations for Computer-Use Agents](https://arxiv.org/abs/2508.09123)
+
+Xinyuan Wang<sup>*</sup>, Bowen Wang<sup>*</sup>, Dunjie Lu<sup>*</sup>, Junlin Yang<sup>*</sup>, Tianbao Xie<sup>*</sup>, Junli Wang<sup>*</sup>, et al., **Yipu Wang**, Heng Wang, Diyi Yang, Victor Zhong, Y.Charles, Zhilin Yang, Tao Yu
+
+- We present OpenCUA, a comprehensive open-source framework for scaling CUA data and foundation models which includes an annotation infrastructure, the first large-scale computer-use task dataset and a scalable pipeline that transforms demonstrations into state–action pairs with reflective long Chain-of-Thought reasoning. Our end-to-end agent model, OpenCUA-32B achieves an average success rate of 32.5% on OSWorld-Verified, establishing a new state-of-the-art (SOTA) among open-source models and surpassing OpenAI CUA (GPT-4o).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JES</div><img src='images/WAPHF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,6 +59,9 @@ Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue
 - We propose WAPHF, a wavelet attention-powered hierarchical dynamic frequency learning framework for lithium battery SOH prediction. By integrating CNN with wavelet transform and dynamic frequency-focused attention, our method effectively addresses frequency aliasing issues and outperforms state-of-the-art approaches across three datasets.
 </div>
 </div>
+
+ 
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yipu Wang"
-description              : "Yipu Wang's homepage"
+#description              : "Yipu Wang's homepage"
 repository               : "WangYipu2002/WangYipu2002.github.io"
 google_scholar_stats_use_cdn : true
 
