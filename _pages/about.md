@@ -38,7 +38,7 @@ Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 Workshop AIA (Oral)</div><img src='images/OpenCUA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><div class="badge">COLM 2025 Workshop AIA (Oral)</div><img src='images/OpenCUA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenCUA: Open Foundations for Computer-Use Agents](https://arxiv.org/abs/2508.09123)
