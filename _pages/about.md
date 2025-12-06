@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I am Yipu Wang. I am currently a Ph.D. candidate jointly supervised by the Institute of Automation, Chinese Academy of Sciences (CASIA), and the School of Advanced Interdisciplinary Sciences, University of Chinese Academy of Sciences. I am fortunate to be advised by [Prof. Xiaolong Zheng](https://people.ucas.edu.cn/~xlzheng). 
-My research focuses on vision-language models and multimodal reasoning.
+My research focuses on vision-language models and spatial intelligence.
 
 
 <!-- # 🔥 News
@@ -27,12 +27,23 @@ My research focuses on vision-language models and multimodal reasoning.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/CrossPoint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Cross-View Point Correspondence in Vision-Language Models](https://arxiv.org/abs/2512.04686)
+
+**Yipu Wang**<sup>*</sup>, Yuheng Ji<sup>*</sup>, Yuyang Liu<sup>*</sup>, Enshen Zhou, Ziqiang Yang, Yuxuan Tian, Ziheng Qin, Yue Liu, Huajie Tan, Cheng Chi, Zhiyuan Ma, Daniel Dajun Zeng, Xiaolong Zheng
+
+- Cross-view correspondence is a fundamental capability for spatial understanding and embodied AI. We propose the Cross-View Point Correspondence (CVPC) task and CrossPoint-Bench, a comprehensive benchmark with hierarchical design. Our evaluation shows state-of-the-art models still fall far behind humans. We construct CrossPoint-378K, a dataset with 378K question-answering pairs across 900 scenes, and propose CroPond that achieves state-of-the-art performance on CrossPoint-Bench, surpassing Gemini-2.5-Pro by 39.7% accuracy.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/VisualTrans.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning](https://arxiv.org/abs/2508.04043)
 
-Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue Liu, Yuting Zhao, Huaihai Lyu, Xiaolong Zheng (<sup>*</sup>Equal contribution)
+Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue Liu, Yuting Zhao, Huaihai Lyu, Xiaolong Zheng
 
 - VisualTrans is the first real-world benchmark for Visual Transformation Reasoning (VTR), evaluating spatial, procedural and quantitative reasoning across 12 human-object interaction tasks. While current models perform well on static tasks, they show significant limitations in dynamic, multi-step reasoning, revealing critical gaps in temporal and causal understanding for intelligent systems.
 </div>
