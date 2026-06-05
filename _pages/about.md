@@ -53,7 +53,7 @@ Kimi Team
 
 - Cross-view correspondence is a fundamental capability for spatial understanding and embodied AI. We propose the Cross-View Point Correspondence (CVPC) task and CrossPoint-Bench, a comprehensive benchmark with hierarchical design. Our evaluation shows state-of-the-art models still fall far behind humans. We construct CrossPoint-378K, a dataset with 378K question-answering pairs across 900 scenes, and propose CroPond that achieves state-of-the-art performance on CrossPoint-Bench, surpassing Gemini-2.5-Pro by 39.7% accuracy.
 
-\[[Paper](https://arxiv.org/abs/2512.04686)\]
+\[[Paper](https://arxiv.org/abs/2512.04686)\] \[[Code](https://github.com/WangYipu2002/CrossPoint)\]
 </div>
 </div>
 
@@ -66,7 +66,7 @@ Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue
 
 - VisualTrans is the first real-world benchmark for Visual Transformation Reasoning (VTR), evaluating spatial, procedural and quantitative reasoning across 12 human-object interaction tasks. While current models perform well on static tasks, they show significant limitations in dynamic, multi-step reasoning, revealing critical gaps in temporal and causal understanding for intelligent systems.
 
-\[[Paper](https://arxiv.org/abs/2508.04043)\]
+\[[Paper](https://arxiv.org/abs/2508.04043)\] \[[Code](https://github.com/WangYipu2002/VisualTrans)\]
 </div>
 </div>
 
@@ -94,7 +94,7 @@ Xinyuan Wang<sup>*</sup>, Bowen Wang<sup>*</sup>, Dunjie Lu<sup>*</sup>, Junlin 
 
 - We present OpenCUA, a comprehensive open-source framework for scaling CUA data and foundation models which includes an annotation infrastructure, the first large-scale computer-use task dataset and a scalable pipeline that transforms demonstrations into state–action pairs with reflective long Chain-of-Thought reasoning. Our end-to-end agent model, OpenCUA-32B achieves an average success rate of 32.5% on OSWorld-Verified, establishing a new state-of-the-art (SOTA) among open-source models and surpassing OpenAI CUA (GPT-4o).
 
-\[[Paper](https://arxiv.org/abs/2508.09123)\]
+\[[Paper](https://arxiv.org/abs/2508.09123)\] \[[Code](https://github.com/xlang-ai/OpenCUA)\]
 </div>
 </div>
 
@@ -147,7 +147,7 @@ Yuxuan Tian, Yuheng Ji, Xiaolong Zheng, Ziheng Qin, **Yipu Wang**, Xinyi Zheng, 
       <li>Supervised by <a href="https://phellonchen.github.io/">Feilong Chen</a></li>
     </ul>
   </div>
-  <img src="images/xiaohongshu.png" style="height: 3.5em; margin-left: 2em; flex-shrink: 0;">
+  <img src="images/xiaohongshu_cropped.png" style="height: 5em; margin-left: 2em; flex-shrink: 0;">
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em;">
@@ -158,5 +158,5 @@ Yuxuan Tian, Yuheng Ji, Xiaolong Zheng, Ziheng Qin, **Yipu Wang**, Xinyi Zheng, 
       <li>Supervised by <a href="https://openreview.net/profile?id=~Y.Charles2">Yujun Chen</a></li>
     </ul>
   </div>
-  <img src="images/moonshot.png" style="height: 3.5em; margin-left: 2em; flex-shrink: 0;">
+  <img src="images/moonshot_cropped.png" style="height: 3em; margin-left: 2em; flex-shrink: 0;">
 </div>
