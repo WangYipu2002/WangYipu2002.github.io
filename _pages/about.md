@@ -147,7 +147,7 @@ Yuxuan Tian, Yuheng Ji, Xiaolong Zheng, Ziheng Qin, **Yipu Wang**, Xinyi Zheng, 
       <li>Supervised by <a href="https://phellonchen.github.io/">Feilong Chen</a></li>
     </ul>
   </div>
-  <img src="images/xiaohongshu_cropped.png" style="height: 5em; margin-left: 2em; flex-shrink: 0;">
+  <img src="images/xiaohongshu_cropped.png" style="height: 3.5em; margin-left: 2em; flex-shrink: 0;">
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em;">
