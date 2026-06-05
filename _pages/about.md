@@ -27,6 +27,21 @@ My research focuses on vision-language models and spatial intelligence.
 
 # 📝 Publications 
 
+## 📋 Technical Reports
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/KimiK2.5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)
+
+Kimi Team (including **Yipu Wang**)
+
+- Kimi K2.5 is a frontier visual agentic model that achieves state-of-the-art performance on computer-use and multimodal reasoning benchmarks, advancing open-source visual agentic intelligence.
+</div>
+</div>
+
+## ✍️ First Author / Co-First Author Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/CrossPoint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,6 +64,19 @@ Yuheng Ji<sup>*</sup>, **Yipu Wang**<sup>*</sup>, Yuyang Liu, Xiaoshuai Hao, Yue
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JES 2023</div><img src='images/WAPHF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wavelet attention-powered neural network framework with hierarchical dynamic frequency learning for lithium-ion battery state of health prediction](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23000944)
+
+**Yipu Wang**, Huan Wang
+
+- We propose WAPHF, a wavelet attention-powered hierarchical dynamic frequency learning framework for lithium battery SOH prediction. By integrating CNN with wavelet transform and dynamic frequency-focused attention, our method effectively addresses frequency aliasing issues and outperforms state-of-the-art approaches across three datasets.
+</div>
+</div>
+
+## 🤝 Collaborative Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/OpenCUA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,14 +88,25 @@ Xinyuan Wang<sup>*</sup>, Bowen Wang<sup>*</sup>, Dunjie Lu<sup>*</sup>, Junlin 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JES</div><img src='images/WAPHF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ScalingUp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Wavelet attention-powered neural network framework with hierarchical dynamic frequency learning for lithium-ion battery state of health prediction](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23000944)
+[Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](https://arxiv.org/abs/2512.12982)
 
-**Yipu Wang**, Huan Wang
+Ziheng Qin, Yuheng Ji, Renshuai Tao, Yuxuan Tian, Yuyang Liu, **Yipu Wang**, Xiaolong Zheng
 
-- We propose WAPHF, a wavelet attention-powered hierarchical dynamic frequency learning framework for lithium battery SOH prediction. By integrating CNN with wavelet transform and dynamic frequency-focused attention, our method effectively addresses frequency aliasing issues and outperforms state-of-the-art approaches across three datasets.
+- We propose a generator-aware prototype framework for scalable AI-generated image detection that leverages generator-specific knowledge to improve generalization across diverse generative models, achieving state-of-the-art performance on large-scale benchmarks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SpatialSurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Spatial Intelligence from a Cognitive Map Perspective: A Survey
+
+Yuxuan Tian, Yuheng Ji, Xiaolong Zheng, Ziheng Qin, **Yipu Wang**, Xiao Zheng, Yuyang Liu, Shiming Bai, Zhiyuan Li, Liwei Wang, et al.
+
+- A comprehensive survey on spatial intelligence in AI systems from a cognitive map perspective, covering spatial reasoning, scene understanding, and embodied AI with systematic categorization of current methods and future directions.
 </div>
 </div>
 
@@ -87,4 +126,5 @@ Xinyuan Wang<sup>*</sup>, Bowen Wang<sup>*</sup>, Dunjie Lu<sup>*</sup>, Junlin 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.02 - 2025.07*, Moonshot AI, Multimodal Team.
+- *2026.03 - Present*, <img src='images/xiaohongshu.png' style='height: 1em; vertical-align: middle;'> Xiaohongshu (小红书), supervised by [Feilong Chen](https://phellonchen.github.io/).
+- *2025.02 - 2025.07*, <img src='images/moonshot.png' style='height: 1em; vertical-align: middle;'> Moonshot AI (Kimi), Multimodal Team, supervised by [Yujun Chen](https://openreview.net/profile?id=~Y.Charles2).
