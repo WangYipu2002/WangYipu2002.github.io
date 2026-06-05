@@ -34,7 +34,7 @@ My research focuses on vision-language models and spatial intelligence.
 
 [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)
 
-Kimi Team (including **Yipu Wang**)
+Kimi Team
 
 - Kimi K2.5 is a frontier visual agentic model that achieves state-of-the-art performance on computer-use and multimodal reasoning benchmarks, advancing open-source visual agentic intelligence.
 </div>
