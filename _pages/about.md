@@ -126,5 +126,10 @@ Yuxuan Tian, Yuheng Ji, Xiaolong Zheng, Ziheng Qin, **Yipu Wang**, Xinyi Zheng, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.03 - Present*, <img src='images/xiaohongshu.png' style='height: 1em; vertical-align: middle;'> Xiaohongshu (小红书), Multimodal Team. Research on spatial intelligence and multimodal large language models. Supervised by [Feilong Chen](https://phellonchen.github.io/).
-- *2025.02 - 2025.07*, <img src='images/moonshot.png' style='height: 1em; vertical-align: middle;'> Moonshot AI (Kimi), Multimodal Team. Research on GUI agents and multimodal large language models. Supervised by [Yujun Chen](https://openreview.net/profile?id=~Y.Charles2).
+- *2026.03 - Present*, <img src='images/xiaohongshu.png' style='height: 1em; vertical-align: middle;'> **Xiaohongshu (小红书)**, Multimodal Team
+  - Spatial intelligence and multimodal large language models
+  - Supervised by [Feilong Chen](https://phellonchen.github.io/)
+
+- *2025.02 - 2025.07*, <img src='images/moonshot.png' style='height: 1em; vertical-align: middle;'> **Moonshot AI (Kimi)**, Multimodal Team
+  - GUI agents and multimodal large language models
+  - Supervised by [Yujun Chen](https://openreview.net/profile?id=~Y.Charles2)
